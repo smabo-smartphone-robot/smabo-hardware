@@ -6,8 +6,8 @@
 
 を管理しています。
 
-!!! note
-    それぞれのパーツの組み立て手順は[smaboサイト](https://smabo-smartphone-robot.github.io)を参考にしてください。
+> [!NOTE]
+> それぞれのパーツの組み立て手順は[smaboサイト](https://smabo-smartphone-robot.github.io)を参考にしてください。
 
 # 目次 <!-- omit in toc --> 
 
