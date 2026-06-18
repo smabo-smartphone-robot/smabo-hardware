@@ -6,6 +6,9 @@
 
 を管理しています。
 
+!!! note
+    それぞれのパーツの組み立て手順は[smaboサイト](https://smabo-smartphone-robot.github.io)を参考にしてください。
+
 # 目次 <!-- omit in toc --> 
 
 - [ファイル一覧](#ファイル一覧)
@@ -89,7 +92,6 @@
       - [cover\_back\_depth\_5\_template.stl](#cover_back_depth_5_templatestl)
       - [cover\_back\_template.stl](#cover_back_templatestl)
       - [cover\_template.stl](#cover_templatestl)
-- [組み立て手順](#組み立て手順)
 
 
 # ファイル一覧
@@ -537,5 +539,4 @@ Raspberry Pi用のコンポーネント集です。
 ![cover_template](images/stl/template/cover_template.jpg)
 
 
-# 組み立て手順
 
