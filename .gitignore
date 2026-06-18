@@ -1,0 +1,36 @@
+# KiCad
+*.bak
+*.lck
+fp-info-cache
+_autosave-*
+~*.*
+*.000
+*.s3db
+*-backups/
+
+# FreeCAD
+*.FCBak
+*.fcstd1
+
+# Fusion 360 / Inventor (自動バックアップ)
+*.f3d.bak
+Old/
+
+# 3D printing スライサー出力
+*.gcode
+*.3mf.bak
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+desktop.ini
