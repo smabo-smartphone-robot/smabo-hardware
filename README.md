@@ -1,5 +1,10 @@
 # smabo-hardware  <!-- omit in toc --> 
 
+> **smabo（スマボ）** は、手のひらサイズのスマホロボット（スマートフォンロボット）です。手持ちのスマホが顔とセンサーになり、工具なしでブロックのように組み立てられます。
+> このリポジトリは smabo の3Dモデル（STL / STEP）と組み立て手順です。使い方は [公式サイト](https://smabo-smartphone-robot.github.io/)、ほかのリポジトリは [smabo-smartphone-robot](https://github.com/smabo-smartphone-robot) を見てください。
+>
+> *smabo is a palm-sized smartphone robot: your phone becomes its face and sensors, and it snaps together without tools. This repository is the 3D-printable parts (STL / STEP) and assembly guides. Guides: [smabo-smartphone-robot.github.io](https://smabo-smartphone-robot.github.io/)*
+
 本リポジトリでは
 - smaboの各3Dモデル（stl, step）
 - 各パーツの組み立て手順
